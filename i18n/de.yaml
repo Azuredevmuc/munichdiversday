@@ -28,6 +28,8 @@ all_speakers:
 code-of-conduct: 
   one: Code of Conduct
   other: Code of Conduct
+terms-and-conditions:
+  other: Teilnahmebedingungen
 buttontext:
   other: Hole Dir Tickets
 mitmachen:

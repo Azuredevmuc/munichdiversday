@@ -29,11 +29,15 @@ languages:
       - identifier: about
         name: about
         url: /about
-        weight: 500
+        weight: 700
       - identifier: sponsors
         name: sponsors
         url: /sponsors
         weight: 600
+      - identifier: terms-and-conditions
+        name : terms-and-conditions
+        url: /terms-and-conditions
+        weight: 400 
       - identifier: code-of-conduct
         name : code-of-conduct
         url: /code-of-conduct
