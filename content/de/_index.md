@@ -2,7 +2,7 @@
 
 {{< figure src="/img/badge_transparent.png" class="azdevcom-logo" title="Azure Developer Community Day 2022" alt="Azure Developer Community Day 2022">}}
 
-Am **18.02.2024** zündet der Münchner Tauchertag wieder ein Feuerwerk für die Taucher:innen Community!
+Am **17.02.2024** zündet der Münchner Tauchertag wieder ein Feuerwerk für die Taucher:innen Community!
 
 Der {{< span_accent value="#MunichDiversDay" >}} ist allen Taucher:innen gewidmet, insbesondere denen, die mit Tauchen gestartet sind oder starten wollen.
 Der Münchner Tauchertag schließt die Lücke zwischen Pro Veranstaltungen und Training Workshops und schafft einen Community-basierten Austausch zwischen Taucher:innen und ihren täglichen Themen.
