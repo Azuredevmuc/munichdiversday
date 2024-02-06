@@ -16,6 +16,6 @@ Der Münchner Tauchertag 2023 war ein toller Erfolg als Hybrid event mit mehr al
 
 In diesem Jahr könnt Ihr tolle Preise gewinnen bei unserem Brandneuen Foto Contest! In drei Kategorien könnt Ihr Teilnehmen und ein Unterwasserfoto einsenden. Eine unabhängige Jury bestimmt den Gewinner der jeweiligen Kategorie!
 
-Die Preise reichen von einem Urlaub auf der wunderschönen Insel Elba bis zur Actioncam, bereit gestellt von unseren Sponsoren.
+Die Preise reichen von einem Urlaub auf der wunderschönen Insel Elba bis zur Actioncam, bereit gestellt von unseren Sponsoren!
 
 {{< accent value="#MunichDiversDay" >}}

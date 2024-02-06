@@ -1,5 +1,5 @@
 ---
-title: Unterwasserfotowettbewerb - Münchner Tauchertage 2024 - Regeln
+title: "Unterwasserfotowettbewerb Münchner Tauchertage 2024"
 kind: page
 slug: terms-and-conditions
 ---
@@ -42,7 +42,7 @@ slug: terms-and-conditions
 
 
 ### Bildnutzung
---------------------------------------
+----------------
 
 * Das Urheberrecht aller Fotos bleibt jederzeit beim Fotografen.
 
@@ -53,51 +53,59 @@ slug: terms-and-conditions
 
 
 ### Einreichungen
---------------------
+------------------
 
-*	Alle Fotos müssen als JPG (beste Qualität) und mit mindestens 2000 Pixeln an der längsten Seite eingereicht werden.
+* Alle Fotos müssen als JPG (beste Qualität) und mit mindestens 2000 Pixeln an der längsten Seite eingereicht werden.
 
-*	Wasserzeichen auf den Bildern sind nicht erlaubt. Werden Fotos trotzdem mit Wasserzeichen eingereicht, müssen diese disqualifiziert werden (da sonst kann keine anonyme Jurierung erfolgen kann).
+* Wasserzeichen auf den Bildern sind nicht erlaubt. Werden Fotos trotzdem mit Wasserzeichen eingereicht, müssen diese disqualifiziert werden (da sonst kann keine anonyme Jurierung erfolgen kann).
 
-*	Bei allen eingereichten Bildern müssen die EXIF Daten vorhanden sein (Aufnahmedatum, Einstellung, etc pp.) Der Name des Fotografen sollte nicht einhalten sein.
+* Bei allen eingereichten Bildern müssen die EXIF Daten vorhanden sein (Aufnahmedatum, Einstellung, etc pp.) Der Name des Fotografen sollte nicht einhalten sein.
 
-*	Im Falle einer Platzierung unter den ersten drei Plätzen einer Kategorie müssen die Fotografen die originale RAW Datei innerhalb von 48 Stunden nach Erhalt der Benachrichtigung an die Organisatoren schicken. Wenn diese Frist versäumt wird, kann das Foto disqualifiziert und das nächst-beste Foto genommen werden. Wenn eine Kamera bzw. ein Smartphone keine RAW Aufnahmen zulassen, muss die unbearbeitete original Datei eingereicht werden.
+* Im Falle einer Platzierung unter den ersten drei Plätzen einer Kategorie müssen die Fotografen die originale RAW Datei innerhalb von 48 Stunden nach Erhalt der Benachrichtigung an die Organisatoren schicken. Wenn diese Frist versäumt wird, kann das Foto disqualifiziert und das nächst-beste Foto genommen werden. Wenn eine Kamera bzw. ein Smartphone keine RAW Aufnahmen zulassen, muss die unbearbeitete original Datei eingereicht werden.
 
 
 
 ### Datenschutz
------------------------
+---------------
 
-*	Die Kontaktdaten der Teilnehmer werden nur intern genutzt und nicht weitergegeben.
+* Die Kontaktdaten der Teilnehmer werden nur intern genutzt und nicht weitergegeben.
 
-*	Es wird keine Werbung geben, nur Hinweise für und auf den Wettbewerb
+* Es wird keine Werbung geben, nur Hinweise für und auf den Wettbewerb
 
 
-### Kategorien / Preise:
--------------------------------------
 
-*	Für den 1. Unterwasserfotowettbewerb der Münchner Fototage 2024 wird es drei Kategorien geben: 1. Best Bavarian, 2. Actioncam / Smartphone und 3. Best professional.
+### Kategorien / Preise
+---------------------
 
-*	In der Best Bavarian Kategorie sind alle Fotos zugelassen, die mit einem Weitwinkel- oder Fisheyeobjektiv aufgenommen wurden. Die Fotos in der Best Professional Kategorie werden von Unterwasserfotografen eingereicht, die dies professionell betreiben und nachweisen können. Alle Aufnahmen in der „Smartphone / Action Kamera“ Kategorie müssen mit einem Mobiltelefon oder einen Actionkamera wie zB der GoPro aufgenommen worden sein. 
+* Für den 1. Unterwasserfotowettbewerb der Münchner Tauchertage 2024 wird es drei Kategorien geben: 1. Best Bavarian, 2. Actioncam / Smartphone und 3. Best professional.
 
-*	Die ersten drei Plätze einer Kategorie werden juriert und bekommen einen Preis, der der Webseite entnommen werden kann. 
+* In der Best Bavarian Kategorie sind alle Fotos zugelassen, die mit einem Weitwinkel- oder Fisheyeobjektiv aufgenommen wurden. Die Fotos in der Best Professional Kategorie werden von Unterwasserfotografen eingereicht, die dies professionell betreiben und nachweisen können. Alle Aufnahmen in der „Smartphone / Action Kamera“ Kategorie müssen mit einem Mobiltelefon oder einen Actionkamera wie zB der GoPro aufgenommen worden sein. 
+
+* Die ersten drei Plätze einer Kategorie werden juriert und bekommen einen Preis, der der Webseite entnommen werden kann. 
 
 
 
 ### Regelverstöße
-----------------------------------------------------------
+----------------
 
 * Wer gegen die Regeln versößt wird vom unwiderruflich Wettbewerb ausgeschlossen
 
+* Der Ausschluss bezieht sich nur auf den aktuellen Wettbewerb im Jahr der Teilnahme
+
 
 ### Ausschlüsse
---------------------------
+---------------
 
 * Beteiligte oder Mitlgieder der Jury sind von der Teilnahme ausgeschlossen
 
+* Mitarbeiter der Sponsoren und Partner sind von der Teilnahme ausgeschlossen
+
+
 
 ### Geltungsbereich
----------------
+----------------
 
-* Wir erwarten, dass sich alle Teilnehmenden an die Reglen und den Code of Conduct halten vor, während und nach dem Wettbewerb.
+* Wir erwarten, dass sich alle Teilnehmenden an die Regeln und den Code of Conduct halten vor, während und nach dem Wettbewerb.
+
+* Ein Verstoß gegen den Code of Conduct wird als Regelverstoß gewertet und wird genauso so behandelt.
 
