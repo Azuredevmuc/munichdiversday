@@ -1,0 +1,13 @@
+{{ define "main" }}
+    <h2>Triff unsere Expert:innen</h2>
+    <p>Unsere <strong>{{len .Pages}} Expert:innen</strong> aus der Community kannst Du vor Ort erleben und ihren spannenden Sessions folgen! <br /></p>
+    <hr class="azdevcom" />
+    {{ range .Pages }}
+        {{ partial "speaker.html" .}}
+    {{ end }}
+    <hr class="azdevcom" />
+{{ end }}
+  
+{{ define "js" }}
+    {{ partial "js.html" (dict "include_maps" false "mapsKey" "") }}
+{{ end }}

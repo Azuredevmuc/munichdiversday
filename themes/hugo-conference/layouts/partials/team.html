@@ -1,0 +1,9 @@
+
+<ul class="speakers-list">
+{{ $team := .Team}}
+{{ range where .Pages "Type" "eq" "speakers" }}
+    {{ if in $team .Params.Slug }}
+        {{ partial "speaker.html" . }}
+    {{ end }}
+{{ end }}
+</ul>

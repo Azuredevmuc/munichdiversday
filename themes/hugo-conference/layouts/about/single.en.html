@@ -1,0 +1,19 @@
+{{ define "main" }}
+{{ $team := slice "alexander-eggers" "janek-fellien" "luise-freese" "martin-brandl" "thorsten-hans" "damir-dobric" }}
+{{ $coreTeam := slice "thomas-pentenrieder" "ralf-richter" }}
+    
+    <h2>The Event</h2>
+    {{ .Content }}
+    <hr class="azdevcom" />
+    <h2>The Event Team 2022</h2>
+    <p>We are happy to have this strong team for the event this year. Besides their role as speakers, they are involved in the organization and are available as moderators, speaker coaches or as contact persons for the speakers.<br>
+      <span class="accent">#CommunityRocks</span> Many thanks for the support in the preparation and on site goes to this great team!</p>
+    {{ partial "speaker-heads.html" (dict "Pages" .Site.Pages "Team" $team) }}
+    <hr class="azdevcom" />
+    <h2>The Core Team</h2>
+    <p>Idea creators and organizing team of the Azure Developer Community Day</p>
+    {{ partial "team.html" (dict "Pages" .Site.Pages "Team" $coreTeam) }}
+{{ end }}
+{{ define "js" }}
+  {{ partial "js.html" (dict "include_maps" false "mapsKey" "") }}
+{{ end }}

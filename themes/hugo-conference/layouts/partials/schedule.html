@@ -1,0 +1,115 @@
+{{ $speakers := .speakers }}
+{{ $tracks := .tracks }}
+
+
+<script type="text/javascript">
+    window.filterValue = '';
+    function setAsFilter(e) {
+        const target = document.querySelector('input[name="filter"][value="' + e.innerText + '"]');
+        if (target) {
+            target.checked = true;
+            filter(target)
+        }
+    }
+    // create a function that modifies a add a class to the element that is clicked
+    function toggleFilter(e) {
+        document.querySelectorAll('.filters>label').forEach(function (el) {
+            el.classList.remove('active');
+        });
+        e.nextElementSibling.classList.toggle('active');
+    }
+    function filter(e) {
+        toggleFilter(e)
+        const val = !e? '' : e.value;
+        resetResults();
+        if (val) {
+            filterList(val);
+        }
+    }
+
+    function resetResults() {
+        const sessions = document.querySelectorAll('.session');
+        sessions.forEach(function (session) {
+            session.classList.remove('hidden');
+        });
+    }
+    function filterList(selection){
+        const sessions = document.querySelectorAll('.session');
+        sessions.forEach(function (session) {
+
+            const idx = [];
+            idx.push(session.dataset.kind)
+            idx.push(session.dataset.track);
+            if (session.dataset.kind === 'break') {
+                return;
+            }
+            if (!idx.includes(selection)) {
+                session.classList.add('hidden');
+                return;
+            }
+        });
+    }
+    
+</script>
+
+<div class="filters">
+    <input onclick="filter(this)" class="hidden peer" type="radio" name="filter" id="filter-none" value="">
+    <label class="button" for="filter-none">
+        All
+    </label>
+    
+    {{ range $tracks }}
+        <input onclick="filter(this)" class="hidden peer" type="radio" name="filter" id="filter-{{ .slug }}" value="{{ .slug }}">
+        <label class="button" for="filter-{{ .slug }}">
+            {{ .name }}
+        </label>
+    {{ end }}
+</div>
+<div class="schedule-tbl">
+  <table>
+    <thead>
+      <tr>
+        <th class="schedule-time">Time</th>
+        <th class="schedule-time">Track</th>
+        <th class="schedule-session">Session</th>
+      </tr>
+    </thead>
+    <tbody>
+        {{ range $slot := .schedule }}
+          <tr class="session {{ $slot.kind }} {{ $slot.track | lower }}"
+            data-kind="{{ $slot.kind }}"
+            data-track="{{ $slot.track | lower }}">
+            <td class="schedule-time">
+                {{ $slot.time }}
+            </td>
+            <td class="schedule-time">
+                {{ $kind := $slot.kind }}
+                {{ $room := $slot.room}}
+                {{ with $slot.track }}
+                    {{ $track := where $tracks "slug" . }}
+                    {{ $track := index $track 0 }}
+                    {{ if ne $kind "break"}}
+                    <div class="schedule-track-name">
+                    {{ $track.name }}
+                    </div>
+                    {{ end}}
+                {{ end }}
+                {{ $room }}
+            </td>
+                <td class="schedule-session">
+                    <div class="schedule-session-name">
+                        <a href="/sessions/{{ $slot.slug}}">{{ $slot.title}}</a>
+                    </div>
+                    <div class="schedule-speakers">
+                        {{ range $speaker_slug := $slot.speakers}}
+                        {{ $speaker := where $speakers "slug" $speaker_slug }}
+                        {{ $speaker := index $speaker 0 }}
+                            <a href="/speakers/{{ $speaker.slug }}/">{{ $speaker.name }}</a>
+                        {{ end}}
+                    </div>
+                </td>
+          </tr>
+      {{ end }}
+    </tbody>
+  </table>
+</div> 

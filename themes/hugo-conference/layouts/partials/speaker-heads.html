@@ -1,0 +1,19 @@
+<style type="text/css">
+    .speakers-heads{
+        display:flex;
+        flex-direction:row;
+        justify-content: center;
+        gap: 20px;
+        width: 90%;
+        margin: 0 auto 40px auto;
+        flex-wrap: wrap;
+    }
+</style>
+<ul class="speakers-heads">
+{{ $team := .Team}}
+{{ range where .Pages "Type" "eq" "speakers" }}
+    {{ if in $team .Params.Slug }}
+        {{ partial "speaker-head.html" . }}
+    {{ end }}
+{{ end }}
+</ul>

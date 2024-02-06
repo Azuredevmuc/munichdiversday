@@ -1,0 +1,38 @@
+{{ define "main"}}
+<h2>{{ .Page.Params.Name }}</h2>
+    <div class="speaker">
+        <img class="speaker-photo" src="{{ .Page.Params.Photo }}" alt="{{ .Page.Params.Name }}" itemprop="image">
+        <div class="speaker-meta">
+            <h3 class="job" style="font-weight: 700;">{{ .Page.Params.Company }}</h3>
+            {{ .Content }}
+            <div class="social">
+                <p>
+                    {{ range .Page.Params.Social }}
+                        <a href="{{ .url }}" target="_blank">{{ .name }}</a>
+                    {{ end }}
+                </p>
+            </div>
+        </div>
+</div>
+
+<hr class="azdevcom" />
+    <h3>Sessions</h3>
+    {{ $slug := .Page.Params.Slug}}
+    {{ $schedule := where .Site.Data.schedule "kind" "in" (slice "session" "podium") }}
+    {{ range $schedule }}
+        {{ if in .speakers  $slug }}
+        
+            <h4>{{ .title}} <small>@ {{ .time }}</small></h4>
+            <div class="abstract">
+                <p>{{ .description | markdownify }}</p>
+            </div>
+            <hr class="azdevcom" />
+        {{ end }}
+        
+    {{end }}      
+  
+{{ end }}
+        
+{{ define "js" }}
+  {{ partial "js.html" (dict "include_maps" false "mapsKey" "") }}
+{{ end }}

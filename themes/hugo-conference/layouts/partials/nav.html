@@ -1,0 +1,24 @@
+<nav id="nav">
+  <ul class="wrapper">
+    {{ range .Site.Menus.main }}
+    <li class="nav-item {{ with .Params }} {{ .Class }} {{ end }}">
+      <a href="{{.URL | absLangURL}}" title="{{ i18n .Name}}" class="nav-link">
+        {{ i18n .Name}}
+      </a>
+    </li>
+    {{ end }}
+    
+    {{ if .IsTranslated }}
+        <ul class="push-right">
+        {{ $flags := .Site.Params.Flags}}
+        {{ range .Site.Home.AllTranslations }}
+            <li class="nav-item">
+                <a href="{{ .Permalink }}" class="nav-link"> {{ index $flags .Language.Lang}}</a>
+            </li>
+        {{ end}}
+        </ul>
+    {{ end }}
+  </ul>
+</nav>
+
+<hr>

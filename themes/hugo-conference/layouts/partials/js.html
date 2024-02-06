@@ -1,0 +1,7 @@
+{{ $jq := resources.Get "jquery.js"}}
+{{ $menu := resources.Get "menu.js"}}
+
+
+
+{{ $minJs := slice $jq $menu | resources.Concat "js/site.js" | resources.Minify | resources.Fingerprint }}
+<script type="text/javascript" src="{{ $minJs.Permalink }}" integrity="{{ $minJs.Data.Integrity }}"></script>

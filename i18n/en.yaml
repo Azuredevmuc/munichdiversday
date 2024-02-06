@@ -1,0 +1,42 @@
+home:
+  one: Home
+  other: Home
+about:
+  one: About
+  other: About
+location:
+  one: Location
+  other: Location
+speakers:
+  one: Speaker
+  other: Speakers
+schedule:
+  one: Schedule
+  other: Schedule
+sponsors:
+  one: Partner
+  other: Partners
+partners:
+  one: Partner
+  other: Partners
+contact:
+  one: Contact
+  other: Contact
+all_speakers:
+  one: See all speakers >>
+  other: See all {{ . }} speakers >>
+code-of-conduct: 
+  one: Code of Conduct
+  other: Code of Conduct
+buttontext:
+  other: Register now!
+footer:
+  other: footer/footer.en.html
+cookie:
+  other: Verwendete Cookies
+date:
+  other: December 13th
+venue:
+  other: Microsoft Germany
+city:
+  other: Munich

@@ -1,0 +1,10 @@
+{{ define "main" }}
+
+    {{ .Content }}
+
+    {{partial "schedule.html" .Site.Data }}
+    
+{{ end }}
+{{ define "js" }}
+  {{ partial "js.html" (dict "include_maps" false "mapsKey" "") }}
+{{ end }}

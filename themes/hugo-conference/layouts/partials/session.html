@@ -1,0 +1,15 @@
+<div>
+    <h3>{{ .Page.Title }}</h3>
+    <div class="meta">
+        {{range .Page.Params.Speaker}}
+        <h4>{{ .name }}</h4>
+        {{end}}
+        <div>
+            <span class="track {{ .Page.Params.Track | lower }}">{{ .Page.Params.Track }}</span>
+        </div>
+
+    </div>
+    <dic class="abstract">
+        <p>{{ .Content }} </p>
+    </dic>
+</div>

@@ -1,0 +1,10 @@
+{{ define "main" }}
+    <h2>{{ .Page.Params.Title }}</h2>
+    {{ .Content }}
+    <hr class="azdevcom" />
+    <h4>{{ i18n "cookie" . }}</h4>
+    <script id="CookieDeclaration" src="https://consent.cookiebot.com/ee1bcd7a-fc58-41ba-b149-f6d5f3c3db4e/cd.js" type="text/javascript" async></script>
+{{ end }}
+{{ define "js" }}
+  {{ partial "js.html" (dict "include_maps" false "mapsKey" "") }}
+{{ end }}

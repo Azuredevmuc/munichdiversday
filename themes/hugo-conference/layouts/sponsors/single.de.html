@@ -1,0 +1,12 @@
+{{ define "main" }}
+    <h2>{{ .Page.Params.Title }}</h2>
+    {{ .Content }}
+    {{partial "sponsors.html" $.Site.Data.sponsors }}
+    <hr class="azdevcom" />
+    <h3>Partner</h3>
+    <p><span class="accent">#CommunityRocks</span> Vielen Dank für den aktiven Support durch unsere Partner</p>
+    {{partial "sponsors.html" $.Site.Data.partners }}
+{{ end }}
+{{ define "js" }}
+  {{ partial "js.html" (dict "include_maps" false "mapsKey" "") }}
+{{ end }}

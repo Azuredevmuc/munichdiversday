@@ -1,0 +1,123 @@
+- title: Welcome Session
+  description: Wir eröffnen den Tauchertag und geben Euch eien Übersicht über dan Ablauf und den Tag!
+  slug: welcome-session
+  kind: session
+  room: Tauchertag
+  time: 10:00
+  track: tauchertag
+  speakers:
+  - ralf-richter
+- title: Tauchunfall - behind the scenes & aktuelles aus der Forschung
+  description: Vorbereitung und Dokumentation vor Transport nach Tauchunfall - welche Info muss ich meinem Buddy mitgeben? Und aktuelles aus der DAN Europe Tauchmedizin-Forschung mit Ausblick in die Zukunft 
+  slug: tauchunfall
+  kind: session
+  room: Tauchertag
+  time: 10:30
+  track: tauchertag
+  speakers:
+  - ulrich-van-laak
+- title: Break
+  description: 
+  slug: break
+  kind: break
+  room: ''
+  time: 11:40
+  track: ''
+  speakers: []
+- title: Lebensbereiche und Zusammenhänge im See
+  description: "Lebensbereiche und Zusammenhänge im See"
+  slug: lebensbereiche-und-zusammenhänge-im-see
+  kind: session
+  room: Tauchertag
+  time: 11:45
+  track: tauchertag
+  speakers:
+  - uwe-scherner
+- title: Break
+  description: 
+  slug: break
+  kind: break
+  room: ''
+  time: 12:30
+  track: ''
+  speakers: []
+- title: Haftung aus Sicht des Tauchlehrer
+  description: "Haftung aus Sicht des Tauchlehrer"
+  slug: haftung-aus-sicht-des-tauchlehrer
+  kind: session
+  room: Tauchertag
+  time: 13:00
+  track: tauchertag
+  speakers:
+  - peter-schetter
+- title: Break
+  description: 
+  slug: break
+  kind: break
+  room: ''
+  time: 13:45
+  track: ''
+  speakers: []
+- title: MANTAHARI - Idealismus oder Pragmatismus?
+  description: "MANTAHARI - Idealismus oder Pragmatismus?"
+  slug: mantahari-idealismus-oder-pragmatismus
+  kind: session
+  room: Tauchertag
+  time: 13:50
+  track: tauchertag
+  speakers:
+  - tim-noack
+- title: Break
+  description: 
+  slug: break
+  kind: break
+  room: ''
+  time: 14:35
+  track: ''
+  speakers: []
+- title: 'Unter Null – Ein Podcast, das Tauchen und ich'
+  description: "Unter Null – Ein Podcast, das Tauchen und ich"
+  slug: unternull
+  kind: session
+  room: Tauchertag
+  time: 14:40
+  track: tauchertag
+  speakers:
+  - anja-kuschel
+- title: Break
+  description: 
+  slug: break
+  kind: break
+  room: ''
+  time: 15:25
+  track: ''
+  speakers: []
+- title: Traumberuf Unterwasserfotograf
+  description: Traumberuf Unterwasserfotograf
+  slug: traumberuf-unterwasserfotograf
+  kind: session
+  room: Tauchertag
+  time: 15:30
+  track: tauchertag
+  speakers:
+  - tobias-friedrich
+- title: Break
+  description: 
+  slug: break
+  kind: break
+  room: ''
+  time: 16:15
+  track: ''
+  speakers: []
+- title: Preisverleihung für den ersten Münchner Tauchertag Foto Contest!
+  description: "Preisverleihung für den ersten Münchner Tauchertag Foto Contest!"
+  slug: verleihung
+  kind: session
+  room: Tauchertag
+  time: 16:20
+  track: tauchertag
+  speakers:
+  - ralf-richter
+  - anja-kuschel
+  - tobias-friedrich
+  - tim-noack

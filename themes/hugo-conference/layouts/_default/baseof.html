@@ -1,0 +1,33 @@
+<!doctype html>
+<html itemscope itemtype="http://schema.org/Event">
+
+<head>
+  <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="ee1bcd7a-fc58-41ba-b149-f6d5f3c3db4e" data-blockingmode="auto" type="text/javascript"></script>
+  <meta charset="utf-8">
+</head>{{ partial "head.html" . }}
+{{ if .IsTranslated }}
+{{ range .Translations }}
+<link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" title="{{ .Language.LanguageName }}">
+{{ end }}
+{{ end }}
+</head>
+
+<body>
+  <div class="global">
+    {{ partial "nav.html" . }}
+    {{ partial "header.html" .Site.Params }}
+    {{$footer := i18n "footer"}}
+    <div class="content" id="content">
+      <div class="wrapper">
+        {{ block "main" . }}
+        {{ end }}
+        {{ partial $footer . }}
+      </div>
+    </div>
+  </div>
+  {{ block "js" . }}
+  {{ end }}
+  
+</body>
+
+</html>

@@ -1,0 +1,30 @@
+
+<h4>Messe München</h4>
+<p>Messegelände, Eingänge Nord und Ost<br/>
+81823 München
+</p>  
+
+<div id="map"></div>
+<p></p>
+<script>
+    let map = new atlas.Map('map', {
+      center: [11.699564109463367, 48.13872621568276],
+      zoom: 12,
+      language: 'en-US',
+      authOptions: {
+        authType: 'subscriptionKey',
+        subscriptionKey: 'dvakicZjzqpoNucsVLa6pnFHPa-D9J2d7c_W5zawh-g'
+      }
+    });
+  
+    //Wait until the map resources are ready.
+    map.events.add('ready', function () {
+      //Create a HTML marker and add it to the map.
+      map.markers.add(new atlas.HtmlMarker({
+        htmlContent: "<div><div class='pin bounce'></div><div class='pulse'></div></div>",
+        position: [11.699564109463367, 48.13872621568276],
+        pixelOffset: [5, -18]
+      }));
+  
+    });
+  </script>

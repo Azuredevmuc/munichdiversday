@@ -1,0 +1,7 @@
+{{ define "main" }}
+    <h2>{{ .Page.Params.Title }}</h2>
+    {{ .Content }}
+{{ end }}
+{{ define "js" }}
+  {{ partial "js.html" (dict "include_maps" false "mapsKey" "") }}
+{{ end }}

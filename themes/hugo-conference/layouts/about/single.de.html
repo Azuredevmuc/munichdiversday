@@ -1,0 +1,12 @@
+{{ define "main" }}
+{{ $team := slice "alexander-eggers" "janek-fellien" "luise-freese" "martin-brandl" "thorsten-hans" "damir-dobric" }}
+{{ $coreTeam := slice "thomas-pentenrieder" "ralf-richter" }}
+    
+    <h2>Das Event</h2>
+    {{ .Content }}
+    <hr class="azdevcom" />
+   
+{{ end }}
+{{ define "js" }}
+  {{ partial "js.html" (dict "include_maps" false "mapsKey" "") }}
+{{ end }}

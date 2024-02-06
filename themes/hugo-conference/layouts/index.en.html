@@ -1,0 +1,17 @@
+{{ define "main" }}
+{{ .Content }}
+<hr class="azdevcom" />
+<h4>Featured Speakers</h4>
+{{ $speakers := slice "daniel-meixner" "luise-freese" "christian-heilmann" "henry-been" }}
+{{ partial "speaker-heads.html" (dict "Pages" .Site.Pages "Team" $speakers) }}
+<hr class="azdevcom" />
+{{ partial "map.html"}}
+<hr class="azdevcom" />
+<h4>Sponsors</h4>
+{{ partial "sponsors.html" .Site.Data.sponsors }}
+{{ end }}
+
+{{ define "js" }}
+    {{ partial "js.html" (dict "include_maps" true "mapsKey" .Site.Params.GoogleMapsKey) }}
+{{ end }}
+  

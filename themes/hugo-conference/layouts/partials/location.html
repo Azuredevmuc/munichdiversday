@@ -1,0 +1,9 @@
+<h2 class="section-title">Location</h2>
+
+
+<p itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+  <span itemprop="streetAddress">{{ .Data.location.address }}. </span>
+  <span itemprop="addressLocality">{{ .Data.location.city }}</span>,
+</p>
+
+<div id="map-canvas" class="location-area" data-address="{{ .Data.location.address }}, {{ .Data.location.city }}"></div>

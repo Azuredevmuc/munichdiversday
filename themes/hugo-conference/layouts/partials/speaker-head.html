@@ -1,0 +1,34 @@
+<style>
+    .speakers-head {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+        text-decoration: none;
+    }
+    a.speakers-head, 
+    a.speakers-head:hover, 
+    a.speakers-head:visited {
+        text-decoration: none;
+    } 
+    .speakers-head h5 {
+        
+        text-align:center;
+        font-size: 170%;
+        font-weight: 600;
+        word-wrap: normal;
+    }
+
+    .photo {
+        border-radius: 50%;
+        width: 120px
+    }
+</style>
+{{ $name := .Params.Name }}
+<a class="speakers-head" itemscope itemtype="http://schema.org/Person" href="/speakers/{{ .Params.Slug}}" title="{{ $name }}">
+    {{ with .Params.Photo }}
+      <img class="photo" src="{{ . }}" alt="{{ $name }}" itemprop="image">
+      {{ end }}
+    
+    <h5>{{$name}}</h5>
+</a>

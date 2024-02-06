@@ -1,0 +1,74 @@
+baseurl: "https://azuredev.org/"
+title: "Münchner Tauchertag 2024 Foto Contest"
+canonifyurls: true
+defaultContentLanguage: de
+languages:
+  de:
+    weight: 10
+    languageName: Deutsch
+    title: "Münchner Tauchertag 2024 Foto Contest"
+    contentDir: content/de
+    menu:
+      main:
+      - identifier: home
+        name: home
+        url: /
+        weight: 100
+      - identifier: schedule
+        name: schedule
+        url: /schedule
+        weight: 200
+      - identifier: speakers
+        name: speakers
+        url: /speakers
+        weight: 300
+      - identifier: location
+        name: location
+        url: /location
+        weight: 400
+      - identifier: about
+        name: about
+        url: /about
+        weight: 500
+      - identifier: sponsors
+        name: sponsors
+        url: /sponsors
+        weight: 600
+      - identifier: code-of-conduct
+        name : code-of-conduct
+        url: /code-of-conduct
+        weight: 7000 
+theme: "hugo-conference"
+#resourceDir:  "/resources"
+
+GoogleAnalytics: ""
+
+params:
+  # Conference info
+  Name: "Münchner Tauchertag 2024 Foto Contest"
+  Description: "Conference description"
+  Date: "February, 17"
+  Venue: "Messe München"
+  Address: "Boulevard Kukulcan, 30"
+  City:  "München"
+  Images: ["/img/badge.png"]
+  GoogleMapsKey: "my-secret-maps-key"
+  Flags:
+    de: 🇩🇪
+    en: 🇺🇸
+
+
+
+  # Active sections on the website to deactivate comment out with '#'
+  # you can also change order here and it will reflect on page
+  #Sections:
+   # - about
+    #- schedule
+   # - speakers
+   # - location
+   # - sponsors
+   # - partners
+
+  CallToAction:
+    text: "Register now!"
+    link: "http://register.example.com"

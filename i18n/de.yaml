@@ -1,0 +1,44 @@
+home:
+  one: Home
+  other: Home
+about:
+  one: Über uns
+  other: Über uns
+location:
+  one: Location
+  other: Location
+speakers:
+  one: Sprecher
+  other: Sprecher
+schedule:
+  one: Programm
+  other: Programm
+sponsors:
+  one: Partner
+  other: Partner
+partners:
+  one: Partner
+  other: Partners
+contact:
+  one: Kontakt
+  other: Kontakt
+all_speakers:
+  one: See all speakers >>
+  other: See all {{ . }} speakers >>
+code-of-conduct: 
+  one: Code of Conduct
+  other: Code of Conduct
+buttontext:
+  other: Hole Dir Tickets
+mitmachen:
+  other: Foto einreichen
+footer:
+  other: footer/footer.de.html
+cookie:
+  other: Verwendete Cookies
+date:
+  other: 18. Februar 
+venue:
+  other: Messe München
+city:
+  other: München

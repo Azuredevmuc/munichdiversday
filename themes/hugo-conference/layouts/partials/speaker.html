@@ -1,0 +1,10 @@
+<div class="speaker" itemprop="performer" itemscope itemtype="http://schema.org/Person">
+    {{ $name := .Params.Name }}
+    {{ with .Params.Photo }}
+    <img class="speaker-photo" src="{{ . }}" alt="{{ $name }}" itemprop="image">
+    {{ end }}
+    <div class="speaker-meta">
+        <h3 class="speaker"><a href="/speakers/{{ .Params.Slug}}">{{ $name }}</a></h3>
+        <h4 class="speaker">{{ .Params.Company }}</h4>
+    </div>
+</div>

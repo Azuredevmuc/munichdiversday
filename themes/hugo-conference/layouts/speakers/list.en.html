@@ -1,0 +1,13 @@
+{{ define "main" }}
+    <h2>Meet the speakers</h2>
+    <p>You can experience our <strong>{{len .Pages}} experts</strong>  from the community on site and follow their exciting sessions! <br /></p>
+    <hr class="azdevcom" />
+    {{ range .Pages }}
+        {{ partial "speaker.html" .}}
+    {{ end }}
+    <hr class="azdevcom" />
+{{ end }}
+
+{{ define "js" }}
+    {{ partial "js.html" (dict "include_maps" false "mapsKey" "") }}
+{{ end }}

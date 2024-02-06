@@ -1,0 +1,11 @@
+{{ define "main" }}
+    <h2>All Sessions</h2>
+    <p>See the following list of all sessions</p>
+     {{ range .Pages }}
+        {{ partial "session.html" .}}
+    {{ end }}
+{{ end }}
+  
+{{ define "js" }}
+    {{ partial "js.html" (dict "include_maps" false "mapsKey" "") }}
+{{ end }}

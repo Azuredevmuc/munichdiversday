@@ -1,0 +1,9 @@
+<ul class="s-list">
+{{ range . }}
+  <li class="s-item" itemscope itemtype="http://schema.org/Organization">
+    <a href="{{ .url }}" class="s--link" itemprop="url" target="_blank">
+      <img src="{{ .logo }}" alt="{{ .name }}" class="s-logo" itemprop="image">
+    </a>
+  </li>
+{{ end }}
+</ul>

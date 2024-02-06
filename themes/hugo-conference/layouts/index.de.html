@@ -1,0 +1,17 @@
+{{ define "main" }}
+{{ .Content }}
+<hr class="azdevcom" />
+<h4>Featured Sprecher:innen</h4>
+{{ $speakers := slice "anja-kuschel" "tobias-friedrich" "tim-noack" "urlich-van-laak" }}
+{{ partial "speaker-heads.html" (dict "Pages" .Site.Pages "Team" $speakers) }}
+<hr class="azdevcom" />
+{{ partial "map.html"}}
+<hr class="azdevcom" />
+<h4>Sponsoren</h4>
+{{ partial "sponsors.html" .Site.Data.sponsors }}
+{{ end }}
+
+{{ define "js" }}
+    {{ partial "js.html" (dict "include_maps" true "mapsKey" .Site.Params.GoogleMapsKey) }}
+{{ end }}
+  

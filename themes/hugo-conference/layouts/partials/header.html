@@ -1,0 +1,38 @@
+<header class="header">
+  <div class="wrapper">
+    <h1 class="logo-name">
+      <a class="logo-link" href="#" title="{{ .name }}" itemprop="name">{{ .name }}</a>
+    </h1>
+    <h2 class="tagline">{{ i18n "date" }}, {{ i18n "venue" }}, {{ i18n "city" }}</h2>
+
+    <div class="call-action-area">
+      {{ with .price }}
+      <span class="price">{{ . }}</span>
+      {{ end }}
+
+      {{ with .calltoaction }}
+      <a id="call-action-link2" class="call-action-link" target="_blank" title="{{ i18n "mitmachen" . }}" href="https://forms.office.com/e/r76rTpjqTd">{{ i18n "mitmachen" . }}</a>
+      <a id="call-action-link" class="call-action-link" target="_blank" title="{{ i18n "buttontext" . }}">{{ i18n "buttontext" . }}</a>
+      <script src="https://www.eventbrite.de/static/widgets/eb_widgets.js"></script>
+     
+
+
+      <script type="text/javascript">
+        var exampleCallback = function () {
+          console.log('Order complete!');
+        };
+
+        window.EBWidgets.createWidget({
+          widgetType: 'checkout',
+          eventId: '734811429767',
+          modal: true,
+          modalTriggerElementId: 'call-action-link',
+          onOrderComplete: exampleCallback
+        });
+      </script>
+      {{ end }}
+    </div>
+  </div>
+</header>
+
+<hr>

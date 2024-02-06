@@ -1,0 +1,22 @@
+<title itemprop="name">{{ .Site.Params.Name }}</title>
+
+<meta charset="utf-8">
+<meta name="author" content="{{ .Site.Params.Name }}" />
+<meta name="description" content="{{ .Site.Params.Description }}">
+<meta name="viewport" content="width=device-width">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+{{ hugo.Generator }}
+{{ template "_internal/opengraph.html" . }}
+{{ template "_internal/twitter_cards.html" . }}
+
+<link rel="shortcut icon" href="/img/favicon.png" type="image/x-icon">
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+
+<link rel="stylesheet" href="https://atlas.microsoft.com/sdk/javascript/mapcontrol/2/atlas.min.css" type="text/css" />
+<script src="https://atlas.microsoft.com/sdk/javascript/mapcontrol/2/atlas.min.js"></script>
+
+{{ $mainCss := resources.Get "main.css" }}
+{{ $customCss := resources.Get "azdevcom.css"}}
+{{ $minCss := slice $mainCss $customCss | resources.Concat "css/site.css" | resources.Minify | resources.Fingerprint }}
+<link rel="stylesheet" type="text/css" href="{{ $minCss.Permalink }}" integrity="{{ $minCss.Data.Integrity }}">
