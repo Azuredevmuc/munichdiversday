@@ -1,6 +1,6 @@
 ## UW-Foto Contest und ein Tag voller Info's und Updates für Taucher:innen
 
-{{< figure src="/img/header.jpg" class="azdevcom-logo" title="Azure Developer Community Day 2022" alt="Azure Developer Community Day 2022">}}
+{{< figure src="/img/header.jpg" class="azdevcom-logo" title="Münchner Tauchertag 2024" alt="Münchner Tauchertag 2024">}}
 
 Am **17.02.2024** zündet der Münchner Tauchertag wieder ein Feuerwerk für die Taucher:innen Community!
 
