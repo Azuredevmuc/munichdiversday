@@ -1,5 +1,5 @@
 baseurl: "https://mucdiversday.azuredev.org/"
-title: "Münchner Tauchertag 2024 & Foto Contest"
+title: "7. Münchner Tauchertag & UW-Foto Contest"
 canonifyurls: true
 defaultContentLanguage: de
 languages:
@@ -49,7 +49,7 @@ GoogleAnalytics: ""
 
 params:
   # Conference info
-  Name: "Münchner Tauchertag 2024 Foto Contest"
+  Name: "7. Münchner Tauchertag & UW-Foto Contest"
   Description: "Conference description"
   Date: "February, 17"
   Venue: "Messe München"
