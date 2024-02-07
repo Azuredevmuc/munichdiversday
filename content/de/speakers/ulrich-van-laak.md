@@ -1,9 +1,9 @@
 ---
 slug: ulrich-van-laak
-name: "Dr. med. Ulrich van Laak"
+name: "Ulrich van Laak"
 photo:
 social:
-company: "DAN Europe, Director Germany"
+company: "Dr. med., DAN Europe, Director Germany"
 about:
 type: speakers
 ---
