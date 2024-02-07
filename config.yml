@@ -1,12 +1,12 @@
 baseurl: "https://mucdiversday.azuredev.org/"
-title: "Münchner Tauchertag 2024 Foto Contest"
+title: "Münchner Tauchertag 2024 & Foto Contest"
 canonifyurls: true
 defaultContentLanguage: de
 languages:
   de:
     weight: 10
     languageName: Deutsch
-    title: "Münchner Tauchertag 2024 Foto Contest"
+    title: "Münchner Tauchertag 2024 & Foto Contest"
     contentDir: content/de
     menu:
       main:
@@ -25,7 +25,7 @@ languages:
       - identifier: location
         name: location
         url: /location
-        weight: 400
+        weight: 800
       - identifier: about
         name: about
         url: /about
