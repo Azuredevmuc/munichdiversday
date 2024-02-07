@@ -11,7 +11,7 @@ slug: terms-and-conditions
 
 * Die Kategorie “Best Bavarian” ist für alle Kameratypen und Fotografen offen. 
 
-* In der Kategorie “Smartphone / Action Kamera” sind nur Fotos erlaubt, die mit einem Smartphone, respektive einer Action Kamera (wie z.B. „GoPro“) aufgenommen worden sind.
+* In der Kategorie “Smartphone / Action Kamera” sind nur Foto erlaubt, die mit einem Smartphone, respektive einer Action Kamera (wie z.B. „GoPro“) aufgenommen worden sind.
 
 * In der Kategorie „Best Professional“ bist Du professioneller Unterwasserfotograf und kannst dieses profession auch belegen.
 
