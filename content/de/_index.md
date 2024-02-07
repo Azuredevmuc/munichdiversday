@@ -19,3 +19,17 @@ In diesem Jahr könnt Ihr tolle Preise gewinnen bei unserem Brandneuen Foto Cont
 Die Preise reichen von einem Urlaub auf der wunderschönen Insel Elba bis zur Actioncam, bereit gestellt von unseren Sponsoren!
 
 {{< accent value="#MunichDiversDay" >}}
+
+Diese Preise kannst Du gewinnen:
+
+1.Einen Kallweit Trockentauchanzug auf Maß (https://www.kallweit.de/tech/)
+
+2.Eine Woche auf der wunscherschönen Insel Elba bei Aquanautic Elba (https://www.aquanautic-elba.de/)
+
+3.Ein Divevolk Ocean Explorer Kit (Smartphone Unterwassergehäuse) (https://www.scubasales.de/Divevolk-Ocean-Explorer-Kit-Boxed)
+
+4.Eines von 2x Divevolk Touch (Smartphone Unterwassergehäuse) (https://www.scubasales.de/Divevolk-SeaTouch-4-MAX-Smartphonegehaeuse)
+
+5.Einen von 2x E-Learing Diving Specialty vom i.a.c. (https://www.diveiac.com/tauchen-lernen/sporttauchen/scuba-specialties/)
+
+... und weitere Preise von Aqualung
