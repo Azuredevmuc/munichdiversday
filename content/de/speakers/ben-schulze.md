@@ -1,24 +1,11 @@
 ---
 slug: ben-schulze
 name: "Benjamin Schulze"
-photo: /img/speaker/ben-schulze.jpeg
+photo: /img/speaker/ben-schulze2.jpeg
 social:
 company: "Redakteur Magazin TAUCHEN"
-about: "Ausbildung: Dipl. Sportwissenschaftler, Schwerpunkt Medien & Kommunikation, passionater Taucher und Instruktor"
+about: "Ben Schulze taucht seit 23 Jahre in allen Gewässern und Pfützen die er finden kann, Hauptsache nass. Den Anfang seiner Tauchkarriere markiert ganz klassisch ein Open Water Diver-Tauchschein. Während seines Sportstudiums mit dem Schwerpunkt Journalismus musste er feststellen, dass mindestens 90 Prozent der Sportstudenten und 50 Prozent der Sportstudentinnen mehr Ahnung von König Fussball hatten als er. Damit schwanden die Chancen im klassischen Sportjournalismus Fuß zu fassen rapide. Ein Alternativplan musste her. Warum also nicht die Leidenschaft Tauchen zum Beruf machen. Mit Geduld und einigen Zwischenstationen gelangte er zum Tauchmagazin Unterwasser, dass 2021 mit seinem jetzigen Arbeitgeber, dem Magazin Tauchen fusioniert wurde. Bei der Tauchen ist Ben sowohl für den Off- als auch für den Onlinebereich tätig. Seine Fachgebiete sind: Tauchausrüstung, Tauchpraxis, Webseiten- und SocialMedia-Management."
 type: speakers
 ---
 
-Ausbildung: Dipl. Sportwissenschaftler, Schwerpunkt Medien & Kommunikation
-
-Tätigkeiten (ehemals & heute): 
-* Dozent für Tauch- u. Rettungssport an der Deutschen Sporthochschule Köln (von 2016 bis 2019)
-
-* i.a.c.-Tauchlehrer seit 2008 (Master Instructor seit 2012)
-
-* Sicherungs- & Arbeitstaucher bei der Europäischen Raumfahrtagentur esa (seit 2012)
-
-* Stuntdouble, Sicherungstaucher und Unterwasser-Kameramann bei Film- und Fernsehproduktionen (Freelance)
-
-* Unterwasser-Fotograf 
-
-* (Reise-)Journalist
+Ben Schulze taucht seit 23 Jahre in allen Gewässern und Pfützen die er finden kann, Hauptsache nass. Den Anfang seiner Tauchkarriere markiert ganz klassisch ein Open Water Diver-Tauchschein. Während seines Sportstudiums mit dem Schwerpunkt Journalismus musste er feststellen, dass mindestens 90 Prozent der Sportstudenten und 50 Prozent der Sportstudentinnen mehr Ahnung von König Fussball hatten als er. Damit schwanden die Chancen im klassischen Sportjournalismus Fuß zu fassen rapide. Ein Alternativplan musste her. Warum also nicht die Leidenschaft Tauchen zum Beruf machen. Mit Geduld und einigen Zwischenstationen gelangte er zum Tauchmagazin Unterwasser, dass 2021 mit seinem jetzigen Arbeitgeber, dem Magazin Tauchen fusioniert wurde. Bei der Tauchen ist Ben sowohl für den Off- als auch für den Onlinebereich tätig. Seine Fachgebiete sind: Tauchausrüstung, Tauchpraxis, Webseiten- und SocialMedia-Management.
