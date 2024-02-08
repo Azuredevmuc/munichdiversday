@@ -30,6 +30,6 @@ Diese Preise kannst Du gewinnen:
 
 4.Eines von 2x Divevolk Touch (Smartphone Unterwassergehäuse) (https://www.scubasales.de/Divevolk-SeaTouch-4-MAX-Smartphonegehaeuse)
 
-5.Einen von 2x E-Learing Diving Specialty vom i.a.c. (https://www.diveiac.com/tauchen-lernen/sporttauchen/scuba-specialties/)
+5.2 x je 1 Zugang für ein Specialty Kurs (freie Wahl) in der i.a.c. e-Academy (https://www.diveiac.com/tauchen-lernen/sporttauchen/scuba-specialties/)
 
 ... und weitere Preise von Aqualung
