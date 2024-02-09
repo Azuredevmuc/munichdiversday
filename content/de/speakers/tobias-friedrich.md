@@ -1,10 +1,13 @@
 ---
 slug: tobias-friedrich
 name: "Tobias Friedrich"
-photo:
+photo: /img/speaker/tobias-friedrich.jpeg
 social:
 company: "Unterwasserfotograf"
-about:
+about: "In seiner Kindheit liebte es Tobias Friedrich die Abenteuer von Kapitän Jacques-Yves Cousteau auf seiner Calypso zu verfolgen und die Welt unter Wasser zu bewundern. Es ist immer ein überwältigendes Gefühl für Tobias, wenn er Tauchen geht und sich unter die Wasseroberfläche sinken lässt. Er liebt die Ruhe und Eleganz der Welt unter Wasser, die so sehr im Kontrast zu der hektischen Oberfläche darüber steht.Tobias wohnt in Wiesbaden, Deutschland und ist dadurch angenehm nah am internationalen Flughafen von Frankfurt am Main. Dies erleichtert seine internationalen Reisen für Einsätze rund um den Globus. 2007 fotografiert er erstmals mit einer Spiegelreflex unter Wasser. Seitdem wurden seine Bilder in renommierten Tauchmagazinen und Zeitungen auf der ganzen Welt veröffentlicht. Mehrere Unterwasser-Fotowettbewerbe haben seine Arbeit gewürdigt. Das Ergebnis sind über 50 Auszeichnungen mit über 30 1. Plätzen. Kürzlich wurde er beim renommierten \"UPY London\"-Wettbewerb als „Unterwasserfotograf des Jahres 2018“ ausgezeichnet. Außerdem ist er \"Deutscher Fotograf des Jahres 2019\" im \"Worldshootout\". Tobias fühlt sich in allen Gewässern zu Hause: von unter Null bis 30 ° Celsius, solange es faszinierende Fotos zu schießen gilt, ist er dabei."
 type: speakers
 ---
 
+In seiner Kindheit liebte es Tobias Friedrich die Abenteuer von Kapitän Jacques-Yves Cousteau auf seiner Calypso zu verfolgen und die Welt unter Wasser zu bewundern. Es ist immer ein überwältigendes Gefühl für Tobias, wenn er Tauchen geht und sich unter die Wasseroberfläche sinken lässt. Er liebt die Ruhe und Eleganz der Welt unter Wasser, die so sehr im Kontrast zu der hektischen Oberfläche darüber steht.
+
+Tobias wohnt in Wiesbaden, Deutschland und ist dadurch angenehm nah am internationalen Flughafen von Frankfurt am Main. Dies erleichtert seine internationalen Reisen für Einsätze rund um den Globus. 2007 fotografiert er erstmals mit einer Spiegelreflex unter Wasser. Seitdem wurden seine Bilder in renommierten Tauchmagazinen und Zeitungen auf der ganzen Welt veröffentlicht. Mehrere Unterwasser-Fotowettbewerbe haben seine Arbeit gewürdigt. Das Ergebnis sind über 50 Auszeichnungen mit über 30 1. Plätzen. Kürzlich wurde er beim renommierten "UPY London"-Wettbewerb als „Unterwasserfotograf des Jahres 2018“ ausgezeichnet. Außerdem ist er "Deutscher Fotograf des Jahres 2019" im "Worldshootout". Tobias fühlt sich in allen Gewässern zu Hause: von unter Null bis 30 ° Celsius, solange es faszinierende Fotos zu schießen gilt, ist er dabei.

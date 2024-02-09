@@ -11,6 +11,8 @@ speaker:
     slug: anja-kuschel
   - name: Tim Noack
     slug: tim-noack
+  - name: Benjamin Schulze
+    slug: ben-schulze
 kind: session
 slug: verleihung
 ---
