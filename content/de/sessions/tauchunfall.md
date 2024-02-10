@@ -52,12 +52,15 @@ analyse in Echtzeit, unterstützt durch eigene App und Webportal.
 Die Kernelemente des Systems, das seine Funktionalitäten im Routineeinsatz bereits
 beweisen hat, sind:
 
- Tragbare Geräte für die Dekompressionsrisikoanalyse in Echtzeit,
+* -Tragbare Geräte für die Dekompressionsrisikoanalyse in Echtzeit,
 Überwachung physiologischer Daten (Elektrokardiogramm, Herzfrequenz,
 Atemfrequenz, Temperatur, Pulsoxymetrie, Körperposition), Geolokalisierung.
- 24/7 zentralisierte Datenbank mit automatisiertem Daten-Upload / Analyse /
+
+* -24/7 zentralisierte Datenbank mit automatisiertem Daten-Upload / Analyse /
 Interpretation für Echtzeit-Feedback an den Taucher.
- 24/7-Notfallhilfezentrum zur Reaktion auf Notfälle unter fachärztlicher Aufsicht.
+
+* -24/7-Notfallhilfezentrum zur Reaktion auf Notfälle unter fachärztlicher Aufsicht.
+
 Das System ist ein innovatives Instrument zur Verbesserung der Qualität der
 Gesundheitsversorgung durch ein effizientes Telemedizinsystem, das wirksame Hilfe
 im Falle von Verletzungen oder Krankheiten in entlegenen oder extremen
