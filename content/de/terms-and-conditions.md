@@ -15,8 +15,6 @@ slug: terms-and-conditions
 
 * In der Kategorie „Best Professional“ bist Du professioneller Unterwasserfotograf und kannst dieses profession auch belegen.
 
-* Die Teilnahmegebühren betragen 10 Euro pro Foto in der „Weitwinkel“ und „Makro“ Kategorie. In der Kategorie “Smartphone / Action Kamera” ist das erste Foto gratis, für jede weitere Einreichung beträgt die Gebühr 5 Euro pro Foto.
-
 * Pro Teilnehmer kann maximal 1 Fotos eingereicht werden. Das beinhaltet ALLE Kategorien und ist nicht PRO Kategorie anzusehen.
 
 * Die **Frist** zur Einreichung der Bilder **endet am 14. Februar 2024 um 23:59 Uhr**.
