@@ -13,9 +13,9 @@ slug: terms-and-conditions
 
 * In der Kategorie “Smartphone / Action Kamera” sind nur Foto erlaubt, die mit einem Smartphone, respektive einer Action Kamera (wie z.B. „GoPro“) aufgenommen worden sind.
 
-* In der Kategorie „Best Professional“ bist Du professioneller Unterwasserfotograf und kannst dieses profession auch belegen.
+* In der Kategorie „Best Professional“ bist Du professioneller Unterwasserfotograf und kannst diese profession auch belegen.
 
-* Pro Teilnehmer kann maximal 1 Fotos eingereicht werden. Das beinhaltet ALLE Kategorien und ist nicht PRO Kategorie anzusehen.
+* Pro Teilnehmer kann maximal 1 Foto eingereicht werden. Das beinhaltet ALLE Kategorien und ist nicht PRO Kategorie anzusehen.
 
 * Die **Frist** zur Einreichung der Bilder **endet am 14. Februar 2024 um 23:59 Uhr**.
 
