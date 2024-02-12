@@ -2,7 +2,7 @@
 title: "Mit Gasen Spielt man nicht"
 track: "tauchertag"
 stream: "https://www.youtube.com/@daneuropegermany/streams"
-speaker:
+speaker: 
   - name: Andreas Pacher
     slug: andi-pacher
 kind: session
