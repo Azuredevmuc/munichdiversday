@@ -24,15 +24,15 @@
   time: 11:40
   track: ''
   speakers: []
-- title: Lebensbereiche und Zusammenhänge im See
-  description: "Lebensbereiche und Zusammenhänge im See"
-  slug: lebensbereiche-und-zusammenhänge-im-see
+- title: Mit Gas spielt man nicht
+  description: "Mit Gas spielt man nicht"
+  slug: mit-gas-spielt-man-nicht
   kind: session
   room: Tauchertag
   time: 11:45
   track: tauchertag
   speakers:
-  - uwe-scherner
+  - andi-pacher
 - title: Break
   description: 
   slug: break
