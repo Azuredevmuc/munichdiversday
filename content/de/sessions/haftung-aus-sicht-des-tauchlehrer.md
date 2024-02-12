@@ -1,5 +1,5 @@
 ---
-title: "Haftung aus Sicht des Tauchlehrer"
+title: "Haftung aus Sicht von Tauchlehrer:innen"
 track: "tauchertag"
 stream: "https://www.youtube.com/@daneuropegermany/streams"
 speaker:
