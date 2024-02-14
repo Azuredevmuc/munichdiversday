@@ -17,7 +17,7 @@
   speakers:
   - ulrich-van-laak
 - title: Break
-  description: 
+  description: "Pause zum Netzwerken, Ratsch und tratsch"
   slug: break
   kind: break
   room: ''
@@ -33,8 +33,8 @@
   track: tauchertag
   speakers:
   - andi-pacher
-- title: Break
-  description: 
+- title: Lunch break
+  description: "Zeit sich eine Stärkung zu holen und ein bißchen über die Messe zu bummeln"
   slug: break
   kind: break
   room: ''
@@ -51,7 +51,7 @@
   speakers:
   - peter-schetter
 - title: Break
-  description: 
+  description: "Pause zum Netzwerken, Ratsch und tratsch"
   slug: break
   kind: break
   room: ''
@@ -68,7 +68,7 @@
   speakers:
   - tim-noack
 - title: Break
-  description: 
+  description: "Pause zum Netzwerken, Ratsch und tratsch"
   slug: break
   kind: break
   room: ''
@@ -85,7 +85,7 @@
   speakers:
   - anja-kuschel
 - title: Break
-  description: 
+  description: "Pause zum Netzwerken, Ratsch und tratsch"
   slug: break
   kind: break
   room: ''
@@ -93,7 +93,7 @@
   track: ''
   speakers: []
 - title: Traumberuf Unterwasserfotograf
-  description: Traumberuf Unterwasserfotograf
+  description: "Traumberuf Unterwasserfotograf? Der professionelle Unterwasserfotograf erzählt in diesem Vortrag wie es ist als Unterwasserfotograf zu arbeiten. Nicht nur die schönen Seiten des Berufes, auch die Schwierigkeiten werden beleuchtet. Welche Bilder braucht man als Unterwasserfotograf und was ist nötig, um Erfolg zu haben? All das wird Tobias während des Münchner Tauchertages erklären"
   slug: traumberuf-unterwasserfotograf
   kind: session
   room: Tauchertag
@@ -102,7 +102,7 @@
   speakers:
   - tobias-friedrich
 - title: Break
-  description: 
+  description: "Pause zum Netzwerken, Ratsch und tratsch"
   slug: break
   kind: break
   room: ''
