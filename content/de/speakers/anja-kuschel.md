@@ -1,7 +1,7 @@
 ---
 slug: anja-kuschel
 name: "Anja Kuschel"
-photo: /img/speaker/anja-kuschel.jpg
+photo: /img/speaker/anja-kuschel2.jpg
 social:
 company: "i.a.c. Master Instructor / BA Sport Gesundheit / Podcast Host Tauchen 2 Go"
 about: 
