@@ -86,7 +86,7 @@ slug: terms-and-conditions
 ### Regelverstöße
 ----------------
 
-* Wer gegen die Regeln versößt wird vom unwiderruflich Wettbewerb ausgeschlossen
+* Wer gegen die Regeln verstößt wird vom unwiderruflich Wettbewerb ausgeschlossen
 
 * Der Ausschluss bezieht sich nur auf den aktuellen Wettbewerb im Jahr der Teilnahme
 
@@ -98,6 +98,8 @@ slug: terms-and-conditions
 
 * Mitarbeiter der Sponsoren und Partner sind von der Teilnahme ausgeschlossen
 
+* Der Rechtsweg ist ausgeschlossen
+
 
 
 ### Geltungsbereich
@@ -106,4 +108,5 @@ slug: terms-and-conditions
 * Wir erwarten, dass sich alle Teilnehmenden an die Regeln und den Code of Conduct halten vor, während und nach dem Wettbewerb.
 
 * Ein Verstoß gegen den Code of Conduct wird als Regelverstoß gewertet und wird genauso so behandelt.
+
 
