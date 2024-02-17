@@ -1,7 +1,7 @@
 ---
 title: "Kleine Pause"
 track: "tauchertag"
-stream: "https://www.youtube.com/@daneuropegermany/streams"
+stream:
 speaker: 
 kind: session
 slug: break

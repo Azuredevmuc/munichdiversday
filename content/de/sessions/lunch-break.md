@@ -1,7 +1,7 @@
 ---
 title: "Mittagspause"
 track: "tauchertag"
-stream: "https://www.youtube.com/@daneuropegermany/streams"
+stream: 
 speaker: 
 kind: session
 slug: lunch-break

@@ -1,7 +1,7 @@
 ---
 title: "Traumberuf Unterwasserfotograf"
 track: "tauchertag"
-stream: "https://www.youtube.com/@daneuropegermany/streams"
+stream: "https://youtube.com/live/hgGaMIJIWGw?feature=share"
 speaker:
   - name: Tobias Friedrich
     slug: tobias-friedrich

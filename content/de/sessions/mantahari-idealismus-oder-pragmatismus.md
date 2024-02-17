@@ -1,7 +1,7 @@
 ---
 title: "MANTAHARI - Idealismus oder Pragmatismus?"
 track: "tauchertag"
-stream: "https://www.youtube.com/@daneuropegermany/streams"
+stream: "https://youtube.com/live/hgGaMIJIWGw?feature=share"
 speaker:
   - name: Tim Noack
     slug: tim-noack

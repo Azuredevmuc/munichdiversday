@@ -1,7 +1,7 @@
 ---
 title: "Tauchunfall - behind the scenes & aktuelles aus der Forschung"
 track: "tauchertag"
-stream: "https://www.youtube.com/@daneuropegermany/streams"
+stream: "https://youtube.com/live/hgGaMIJIWGw?feature=share"
 speaker:
   - name: Dr. Ulrich van Laak
     slug: ulrich-van-laak
