@@ -1,7 +1,7 @@
 ---
 title: "Unter Null – Ein Podcast, das Tauchen und ich"
 track: "tauchertag"
-stream: "https://youtube.com/live/hgGaMIJIWGw?feature=share"
+stream: "https://www.youtube.com/watch?v=N8MdpXako9Y&t=12973s"
 speaker:
   - name: Anja Kuschel
     slug: anja-kuschel
