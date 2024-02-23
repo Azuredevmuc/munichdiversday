@@ -1,7 +1,7 @@
 ---
 title: "Preisverleihung Münchner Tauchertag Foto Contest"
 track: "collaboration-no-code"
-stream: "https://youtube.com/live/hgGaMIJIWGw?feature=share"
+stream: "https://youtu.be/N8MdpXako9Y?si=UDv1cShKg9RNoYMs&t=18088"
 speaker:
   - name: Ralf Richter
     slug: ralf-richter

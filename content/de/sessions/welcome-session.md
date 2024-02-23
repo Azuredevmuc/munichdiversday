@@ -1,7 +1,7 @@
 ---
 title: "Welcome Session"
 track: "tauchertag"
-stream: "https://youtube.com/live/hgGaMIJIWGw?feature=share"
+stream: "https://www.youtube.com/watch?v=N8MdpXako9Y"
 speaker:
   - name: Ralf Richter
     slug: ralf-richter
